@@ -1,5 +1,5 @@
 all:
-	@c++ main.cpp
+	@c++ main.cppp
 
 
 
